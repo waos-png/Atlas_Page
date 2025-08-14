@@ -194,7 +194,6 @@ body {
     padding: 2rem;
     text-align: center;
 }
-
 .plan-destacado {
     background-color: #182540;
     color: white;
@@ -209,7 +208,8 @@ body {
     margin: 1.5rem 0;
 }
 
-.precio-cantidad {
+.precio-cantidad,
+.price-amount {
     font-size: 5rem;
     font-weight: bold;
 }
@@ -221,6 +221,7 @@ body {
 
 .plan-caracteristicas li {
     margin-bottom: 0.5rem;
+    font-size: 1.1rem;
 }
 
 .plan-boton {
